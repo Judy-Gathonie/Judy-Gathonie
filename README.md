@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Judy-Gathonie
-- 👀 I’m interested in ...Devsecops / cybersecurity and software development
-- 🌱 I’m currently learning ...Devops
+- 👀 I’m interested in ...Devsecops / cybersecurity / cloud and software development
+- 🌱 I’m currently learning ...Devops and cloud 
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...
 
