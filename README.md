@@ -34,7 +34,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <ins>I’m always eager to collaborate on projects</ins> that push the boundaries of technology, especially in healthcare, AI, or environmental solutions.
+           I’m always eager to collaborate on projects that push the boundaries of technology, especially in healthcare, AI, or environmental solutions.
         </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            When I’m not immersed in code, you’ll likely find me sipping coffee at a cozy café ☕ or experimenting with different Linux distros 🐧.
+            When I’m not immersed in code, you’ll likely find me sipping coffee at home while reading a novel ☕ or experimenting with different Linux distros 🐧.
         </td>
     </tr>
 </table>
