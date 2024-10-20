@@ -6,15 +6,7 @@
 Currently, I’m working on a healthcare diagnostics project focused on early detection of breast cancer, aiming to make diagnostics both affordable and efficient. I’m always looking for new ways to grow and improve, whether it’s diving into AWS services, automating tasks with Jenkins, or refining my Linux skills.
 
 🔧 Skills & Tools
-<ins>I enjoy working across a wide range of technologies, which include:</ins>
-
-Languages: I write code in Python, Java, and Bash, using each where they shine the most.<br>
-Cloud Platforms: I’m proficient in AWS services like EC2, S3, Lambda, and RDS, and I use Terraform to manage infrastructure as code.<br>
-DevOps Tools: My DevOps toolkit includes Jenkins for CI/CD, Docker for containerization, and Ansible for automation. I’m constantly exploring new ways to automate workflows.<br>
-Databases: I work with relational databases such as MySQL and PostgreSQL, designing efficient data storage and retrieval systems.<br>
-Operating Systems: I’m a Linux enthusiast, leveraging its powerful command-line interface to manage systems and environments.<br>
-🛠 What I’m Working On
-<ins>I’m currently focused on a few key areas:</ins>
+[![My Skills](https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraorm,&perline=3)](https://skillicons.dev)
 
 Cloud infrastructure: I’m building scalable cloud environments that can handle growth while maintaining reliability.<br>
 Backend systems: I’m optimizing backend performance to ensure faster and more efficient processing.<br>
