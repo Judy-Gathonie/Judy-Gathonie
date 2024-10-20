@@ -10,12 +10,14 @@
         <td colspan="2"><strong>🚀 About Me</strong></td>
     </tr>
     <tr>
+        <td>
        <p>
     Cloud Engineer<br>
     Backend Engineer<br>
     DevOps Enthusiast<br>
     Software Engineer
       </p>
+        </td>
            </tr>
     <tr>
         <td colspan="1"><strong>🔧 Skills & Tools</strong></td>
