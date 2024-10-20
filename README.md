@@ -25,7 +25,7 @@
     <tr>
         <td colspan="1">
             <a href="https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraform,ansible,docker,dynamodb,kubernetes,git,&perline=3" target="_blank">
-                <img src="https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraform,ansible,docker,dynamodb,kubernetes,git,&perline=3" alt="My Skills" />
+                <img src="https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraform,ansible,docker,dynamodb,kubernetes,git,&perline=5" alt="My Skills" />
             </a>
         </td>
     </tr>
@@ -36,6 +36,14 @@
         <td colspan="2">
            I’m always eager to collaborate on projects that push the boundaries of technology, especially in healthcare, AI, or environmental solutions.
         </td>
+    </tr>
+    <tr>
+          <tr>
+        <td colspan="1"><strong>🌍 Actively Learning</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+         [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
     </tr>
     <tr>
         <td colspan="1"><strong>💬 Fun Fact</strong></td>
