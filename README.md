@@ -10,18 +10,12 @@
         <td colspan="2"><strong>🚀 About Me</strong></td>
     </tr>
     <tr>
-        <td colspan="2">
-           Cloud engineer
-                </td>
-        <td colspan="2">
-          Backend engineer
-                </td>
-        <td colspan="2">
-           Devops Enthuthiast
-                </td>
-        <td colspan="1">
-           Software Engineer
-                </td>
+       <p>
+    Cloud Engineer<br>
+    Backend Engineer<br>
+    DevOps Enthusiast<br>
+    Software Engineer
+      </p>
            </tr>
     <tr>
         <td colspan="1"><strong>🔧 Skills & Tools</strong></td>
@@ -46,7 +40,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <ins>When I’m not immersed in code, you’ll likely find me sipping coffee at a cozy café ☕ or experimenting with different Linux distros 🐧.</ins>
+            When I’m not immersed in code, you’ll likely find me sipping coffee at a cozy café ☕ or experimenting with different Linux distros 🐧.
         </td>
     </tr>
 </table>
