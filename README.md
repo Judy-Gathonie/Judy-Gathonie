@@ -1,4 +1,4 @@
-👋 Hi there, I’m <a href="https://github.com/Judy.G" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75459&center=false&vCenter=true&width=435&lines=[Your+Name+Here]!;Backend+%26+Cloud+Engineer" alt="Typing SVG" /></a>
+👋 Hi there, I’m <a href="https://github.com/yourusername" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75459&center=false&vCenter=true&width=435&lines=[Judy.G]!;Backend+%26+Cloud+Engineer" alt="Typing SVG" /></a>
 🚀 About Me:
 💻 Backend Engineer & Cloud Enthusiast on a mission to build scalable systems and seamless cloud infrastructure.
 🏥 Currently working on an affordable healthcare diagnostics project aimed at early breast cancer detection.
