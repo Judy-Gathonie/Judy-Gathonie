@@ -43,7 +43,10 @@
     </tr>
     <tr>
         <td colspan="2">
-         [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+            <a href="https://skillicons.dev" target="_blank">
+                <img src="https://skillicons.dev/icons?i=fastapi,laravel,golang,&theme=dark" alt="My Skills" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td colspan="1"><strong>💬 Fun Fact</strong></td>
