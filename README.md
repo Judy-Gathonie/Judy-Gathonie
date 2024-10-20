@@ -1,4 +1,5 @@
 I’m <a href="https://github.com/yourusername" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75459&center=false&vCenter=true&width=435&lines=Judy.G!;Backend+%26+Cloud+Engineer" alt="Typing SVG" /></a>
+
 🚀 About Me
 <ins>I’m a Backend Engineer and Cloud Enthusiast</ins> passionate about building scalable systems and seamless cloud infrastructure. My work is driven by the belief that technology should make processes more efficient and accessible, especially in areas like healthcare.
 
@@ -18,6 +19,7 @@ Operating Systems: I’m a Linux enthusiast, leveraging its powerful command-lin
 Cloud infrastructure: I’m building scalable cloud environments that can handle growth while maintaining reliability.
 Backend systems: I’m optimizing backend performance to ensure faster and more efficient processing.
 Code optimization: My goal is to write not just functional code, but optimized, clean, and maintainable code that stands the test of time.
+
 🌍 Let’s Collaborate
 <ins>I’m always eager to collaborate on projects that push the boundaries of what technology can do.</ins> If you have an interesting cloud or backend project, let’s connect! I’m particularly interested in working on initiatives that align with healthcare, artificial intelligence, or environmental solutions, as I believe technology can and should be a force for good in the world.
 
