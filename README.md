@@ -6,7 +6,8 @@
 Currently, I’m working on a healthcare diagnostics project focused on early detection of breast cancer, aiming to make diagnostics both affordable and efficient. I’m always looking for new ways to grow and improve, whether it’s diving into AWS services, automating tasks with Jenkins, or refining my Linux skills.
 
 🔧 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraorm,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraorm,ansible,docker,dynamodb,kubernetes,git,&perline=3)](https://skillicons.dev)
+
 
 Cloud infrastructure: I’m building scalable cloud environments that can handle growth while maintaining reliability.<br>
 Backend systems: I’m optimizing backend performance to ensure faster and more efficient processing.<br>
