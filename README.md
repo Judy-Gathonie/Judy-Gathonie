@@ -11,21 +11,30 @@
     </tr>
     <tr>
         <td colspan="2">
-            <ins>I’m a Backend Engineer and Cloud Enthusiast</ins> passionate about building scalable systems and seamless cloud infrastructure. Currently, I’m working on a healthcare diagnostics project focused on early detection of breast cancer.
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2"><strong>🔧 Skills & Tools</strong></td>
-    </tr>
-    <tr>
+           Cloud engineer
+                </td>
         <td colspan="2">
+          Backend engineer
+                </td>
+        <td colspan="2">
+           Devops Enthuthiast
+                </td>
+        <td colspan="1">
+           Software Engineer
+                </td>
+           </tr>
+    <tr>
+        <td colspan="1"><strong>🔧 Skills & Tools</strong></td>
+    </tr>
+    <tr>
+        <td colspan="1">
             <a href="https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraform,ansible,docker,dynamodb,kubernetes,git,&perline=3" target="_blank">
                 <img src="https://skillicons.dev/icons?i=aws,jenkins,php,python,bash,fastapi,postman,linux,terraform,ansible,docker,dynamodb,kubernetes,git,&perline=3" alt="My Skills" />
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2"><strong>🌍 Let’s Collaborate</strong></td>
+        <td colspan="1"><strong>🌍 Let’s Collaborate</strong></td>
     </tr>
     <tr>
         <td colspan="2">
@@ -33,7 +42,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2"><strong>💬 Fun Fact</strong></td>
+        <td colspan="1"><strong>💬 Fun Fact</strong></td>
     </tr>
     <tr>
         <td colspan="2">
