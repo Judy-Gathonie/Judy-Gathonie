@@ -13,9 +13,9 @@
         <td>
        <p>
     Networking Professional <br>
-   Cloud Engineer<br>
+   Cloud Specialist<br>
    Cyber security <br>
-    Backend Engineer<br>
+    Webdeveloper<br>
     DevSecOps Enthusiast<br>
     Software development
       </p>
